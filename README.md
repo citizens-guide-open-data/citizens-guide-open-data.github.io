@@ -1,4 +1,4 @@
-# Citizen's Guide to Canadian Municipal Open Data presentations
+# citizens-guide-open-data.github.io
 
 Website for hosting the Citizen's Guide to Municipal Open Data [citizens-guide-open-data.github.io](https://citizens-guide-open-data.github.io/)
 
