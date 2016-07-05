@@ -193,6 +193,8 @@ pre {
  */
 .icon {
 
+    color: $text-color;
+
     > svg {
         display: inline-block;
         width: 16px;
