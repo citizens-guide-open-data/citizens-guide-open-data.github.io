@@ -4,20 +4,14 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
+  <section>
+  <h1 class="page-heading">Section I: </h1>
+    {% for section in site.sections %}
+      <article class ="section">
+        <h2 class="article-heading">{{section.title}}</h2>
+        {{section.output}}
+      </article> <!-- /.section article -->
     {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  </section>
 
 </div>
