@@ -1,6 +1,7 @@
 ---
 layout:
 title: "Openness and Government"
+slug: "openness-government"
 ---
 
 Governments collect a lot of data about their citizens, their services, and their policies. They use this data to understand if they are accomplishing their goals, and to make better, more informed decisions. When governments allow their citizens access to their data, they not only show citizens the information they have used to make and evaluate decisions, but allow citizens to participate in this process but criticizing government decisions, as well as proposing their own and working on technologies that create solutions. When government makes its decision-making processes, expenditures of organizational structures (sometimes including cash-sources and salaries of individual politicians), and gathered data accessible to its citizens, we call this _transparency_.

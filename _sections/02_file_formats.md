@@ -1,6 +1,7 @@
 ---
 layout:
 title: "What are File Formats?"
+slug: "file-formats"
 ---
 
 File formats are agreed upon and standardized ways information is encoded for use by computers. A format describes how the file is represented when stored. Files end in _extensions_ (for example: .mp3, .html, .doc) which usually are shortened versions of the format name.

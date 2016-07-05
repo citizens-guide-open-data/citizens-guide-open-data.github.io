@@ -4,11 +4,13 @@ layout: default
 
 <div class="home">
 
+  {% include toc.html %}
+
   <section>
   <h1 class="page-heading">Section I: </h1>
     {% for section in site.sections %}
       <article class ="section">
-        <h2 class="article-heading">{{section.title}}</h2>
+        <a name="{{section.slug}}"></a><h2 class="article-heading">{{section.title}}</h2>
         {{section.output}}
       </article> <!-- /.section article -->
     {% endfor %}
