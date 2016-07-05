@@ -1,6 +1,7 @@
 ---
 layout:
 title: "Openness and Data"
+slug: "openness"
 ---
 
 Data is open when it can be accessed and put to use. Much data is not open

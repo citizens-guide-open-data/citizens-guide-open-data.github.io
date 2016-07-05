@@ -1,6 +1,7 @@
 ---
 layout:
 title: "What is Data?"
+slug: "what-is-data"
 ---
 
 Data is a fuzzy concept—a definitive definition is nearly impossible to come by, and the difference between data and information, knowledge, and truth is a matter of philosophical dispute. We don't need to get into that here. Instead, this guide will focus on the kinds of data, and their uses, that often come up when we talk about open data- a term which we'll know a lot more about by the end of this section.

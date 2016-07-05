@@ -1,6 +1,7 @@
 ---
 layout:
 title: "How do you Open Data?"
+slug: "how-to-open"
 ---
 
 Many civil services have teams working to prepare open data for release. In some cases, as in Toronto, the desire is that all data will be '[open by default](http://open.canada.ca/en/Canada%E2%80%99s_Directive_on_Open_Government_%E2%80%93_Creating_a_Culture_of_%E2%80%9COpen_by_Default%E2%80%9D)', unless there are concerns about confidentiality or security (City of Toronto, 2016; Government of Canada, 2015). Opening data takes work- the process by which data is collected determines whether it adheres to the standards of interoperability (open formats) that governments now try to follow with their datasets. Given this commitment, many datasets are not suitable to release in their current form, and require reworking. Fortunately, civil services are often enthusiastic to open their data to the public– that's who open data is for!
