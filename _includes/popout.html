@@ -1,5 +1,5 @@
-<div class="panel panel-default">
-  <div class="panel-heading">{{ include.title }}</div>
+<div class="panel panel-primary">
+  <div class="panel-heading popout-heading">{{ include.title }}</div>
   <div class="panel-body">
       {% capture popout_content %}{% include popouts/{{ include.slug }}.md %}{% endcapture %}
       {{ popout_content | markdownify }}

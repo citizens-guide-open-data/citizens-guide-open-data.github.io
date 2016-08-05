@@ -1,3 +1,8 @@
+---
+title: The Data/Information/Knowledge/Wisdom (DIKW) Pyramid
+slug: dikw
+---
+
 ![The Data/Information/Knowledge/Wisdom (DIKW) Pyramid from Longlivetheux on Wikipedia]({{https://en.wikipedia.org/wiki/DIKW_Pyramid#/media/File:DIKW_Pyramid.svg}}../_assets/dikw.png)
 
 The DIKW Pyramid is a way of understanding how data, information, knowledge and wisdom are related to each other, and to the decisions that people make every day. In the DIKW pyramid, data is the most basic thing, usually referring to simple facts or descriptions, like the name and location of a restaraunt. Information is contextualized data, like that the restaurant is walking distance from where you are. Knowledge and wisdom are even more contextualized, like knowing that this restaurant is the best of its kind in the neighbourhood, or that certain dishes live up to the hype while others do not. 
