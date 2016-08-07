@@ -1,0 +1,55 @@
+/* HEADER CSS */
+.title-text {
+    padding-top: 25px;
+}
+
+/* POPOUTS CSS */
+
+.popout-panel {
+    border-color: #3366cc !important;
+}
+
+.popout-heading {
+    font-weight: bold;
+    background-color: #3366cc !important;
+}
+
+.popout-body {
+    background-color: #d6e0f4;
+}
+
+/* CONCEPTS */
+
+.concept-panel {
+    border-color: #66cc33 !important;
+}
+
+.concept-heading {
+    font-weight: bold;
+    background-color: #66cc33 !important;
+}
+
+.concept-body {
+    background-color: #e0f4d6;
+}
+
+/* TOOLTIPS */
+
+.tooltip-panel {
+    border-color: #cc3366 !important;
+}
+
+.tooltip-heading {
+    font-weight: bold;
+    background-color: #cc3366 !important;
+}
+
+.tooltip-body {
+    background-color: #f4d6e0;
+}
+
+/* PERSONA THUMBNAIL */
+.persona-thumbnail {
+    padding-bottom: 0px;
+    padding-top: -50px;
+}

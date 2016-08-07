@@ -1,7 +1,7 @@
-<div class="panel panel-default">
-  <div class="panel-heading">{{ include.title }}</div>
-  <div class="panel-body">
-      {% capture popout_content %}{% include popouts/{{ include.slug }}.md %}{% endcapture %}
-      {{ popout_content | markdownify }}
+<div class="panel panel-default tooltip-panel">
+  <div class="panel-heading tooltip-heading">{{ include.title }}</div>
+  <div class="panel-body tooltip-body">
+      {% capture tooltip_content %}{% include tooltips/{{ include.slug }}.md %}{% endcapture %}
+      {{ tooltip_content | markdownify }}
   </div>
 </div>
