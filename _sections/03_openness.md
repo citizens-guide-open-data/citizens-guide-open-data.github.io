@@ -23,3 +23,5 @@ OKF’s [Global Open Data Index](http://index.okfn.org/), generated annually thr
 - available digitally
 - publicly available
 - exists/collected
+
+{% include popout.html title='The Data Spectrum' slug='data_spectrum' %}
