@@ -1,0 +1,55 @@
+/**
+ * Popouts
+ */
+.popout-panel {
+    border-color: $popout-accent-color !important;
+}
+
+.popout-heading {
+    font-weight: bold;
+    background-color: $popout-accent-color !important;
+}
+
+.popout-body {
+    background-color: $popout-background-color;
+}
+
+/**
+ * Concepts
+ */
+.concept-panel {
+    border-color: $concept-accent-color !important;
+}
+
+.concept-heading {
+    font-weight: bold;
+    background-color: $concept-accent-color !important;
+}
+
+.concept-body {
+    background-color: $concept-background-color;
+}
+
+/**
+ * Tooltips
+ */
+.tooltip-panel {
+    border-color: $tooltip-accent-color !important;
+}
+
+.tooltip-heading {
+    font-weight: bold;
+    background-color: $tooltip-accent-color !important;
+}
+
+.tooltip-body {
+    background-color: $tooltip-background-color;
+}
+
+/**
+ * Personas
+ */
+.persona-thumbnail {
+    padding-bottom: 0px;
+    padding-top: -50px;
+}

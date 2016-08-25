@@ -7,12 +7,13 @@
 
 // Our variables
 $base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-$base-font-size:   18px;
+$base-font-size:   16px;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.25;
+$base-line-height: 1.35;
 
 $spacing-unit:     30px;
+$small-spacing-unit: $spacing-unit / 3;
 
 $text-color:       #111;
 $background-color: #fdfdfd;
@@ -22,13 +23,21 @@ $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
+$concept-accent-color: #66cc33;
+$concept-background-color: #e0f4d6;
+
+$popout-accent-color: #3366cc;
+$popout-background-color: #d6e0f4;
+
+$tooltip-accent-color: #cc3366;
+$tooltip-background-color: #f4d6e0;
+
+
 // Width of the content area
-$content-width:    800px;
+$content-width:    960px;
 
 $on-palm:          600px;
-$on-laptop:        800px;
-
-
+$on-laptop:        960px;
 
 // Use media queries like this:
 // @include media-query($on-palm) {
@@ -48,8 +57,9 @@ $on-laptop:        800px;
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "base",
+        "bootstrap.min",
         "layout",
+        "document-elements",
         "syntax-highlighting",
-        "font-awesome",
-        "bootstrap.min"
+        "font-awesome"
 ;
