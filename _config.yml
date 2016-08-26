@@ -7,7 +7,11 @@
 
 # Site settings
 title: "Citizen's Guide to Open Data"
+<<<<<<< HEAD
+email:
+=======
 email: geothink.opendata.guide@gmail.com
+>>>>>>> master
 description: > # this means to ignore newlines until "baseurl:"
   The Citizen’s Guide aims to provide citizens with tools to understand what makes up open data (OD), how it can be used in their communities, and where to find it.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -17,10 +21,3 @@ github_username: citizens-guide-open-data
 
 # Build settings
 markdown: kramdown
-
-# Structure
-collections:
-  - sections
-  - concepts
-  - popouts
-  - case_stories

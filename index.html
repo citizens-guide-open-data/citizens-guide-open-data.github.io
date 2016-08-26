@@ -4,19 +4,8 @@ layout: default
 
 <div class="home">
 
-  <!--  {% include toc.html %} -->
 {% include citizen-stories.html %}
 
 {% include personas.html %}
-
-  <section>
-  <h1 class="page-heading">Section I: </h1>
-    {% for section in site.sections %}
-      <article class ="section">
-        <a name="{{section.slug}}"></a><h2 class="article-heading">{{section.title}}</h2>
-        {{section.output}}
-      </article> <!-- /.section article -->
-    {% endfor %}
-  </section>
 
 </div>
