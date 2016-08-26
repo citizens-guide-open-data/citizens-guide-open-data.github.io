@@ -111,19 +111,53 @@
     padding: $small-spacing-unit 0;
 }
 
-.footer-heading {
-    font-size: 18px;
-    margin-bottom: $spacing-unit / 2;
-}
-
-.contact-list,
-.social-media-list {
+.contact-list {
     list-style: none;
     margin-left: 0;
 }
 
+.social-media-list {
+    list-style: none;
+    margin-left: 0;
+    float: right;
+    display: inline-block;
+}
+
+.social-media-list-item {
+    font-size: $base-font-size * 1.5;
+    display: inline-block;
+    padding-left: 5px;
+}
+
+.footer-nav {
+    position: relative;
+    overflow: hidden;
+}
+
+.footer-nav ul {
+    margin-left: -0.5em;
+    list-style: none;
+    display: inline-block;
+}
+
+.footer-nav li {
+    padding: 0 0.45em;
+    display: inline-block;
+    border-left: 1px solid $grey-color;
+}
+
+.flex-list li {
+    flex-grow: 1;
+    flex-basis: auto;
+    margin: 0 0 0;
+    padding: 0 1em;
+    text-align: center;
+    border-left: 1px solid #ccc;
+    background-color: #fff;
+}
+
 .footer-col-wrapper {
-    font-size: 15px;
+    font-size: $small-font-size;
     color: $grey-color;
     margin-left: -$small-spacing-unit;
     @extend %clearfix;
@@ -135,39 +169,14 @@
     padding-left: $small-spacing-unit;
 }
 
-.footer-col-1 {
-    width: -webkit-calc(35% - (#{$small-spacing-unit} / 2));
-    width:         calc(35% - (#{$small-spacing-unit} / 2));
-}
-
-.footer-col-2 {
-    width: -webkit-calc(20% - (#{$small-spacing-unit} / 2));
-    width:         calc(20% - (#{$small-spacing-unit} / 2));
-}
-
-.footer-col-3 {
-    width: -webkit-calc(45% - (#{$small-spacing-unit} / 2));
-    width:         calc(45% - (#{$small-spacing-unit} / 2));
-}
-
-@include media-query($on-laptop) {
-    .footer-col-1,
-    .footer-col-2 {
-        width: -webkit-calc(50% - (#{$small-spacing-unit} / 2));
-        width:         calc(50% - (#{$small-spacing-unit} / 2));
-    }
-
-    .footer-col-3 {
-        width: -webkit-calc(100% - (#{$small-spacing-unit} / 2));
-        width:         calc(100% - (#{$small-spacing-unit} / 2));
-    }
-}
-
 @include media-query($on-palm) {
     .footer-col {
         float: none;
         width: -webkit-calc(100% - (#{$small-spacing-unit} / 2));
         width:         calc(100% - (#{$small-spacing-unit} / 2));
+    }
+    .social-media-list {
+        float: none;
     }
 }
 
