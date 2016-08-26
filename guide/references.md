@@ -1,5 +1,5 @@
 ---
-title: "How Can I Work With Open Data?"
+title: "References"
 chapter: 6
 layout: chapter
 ---
