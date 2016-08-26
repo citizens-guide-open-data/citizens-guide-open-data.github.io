@@ -2,23 +2,38 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.title }}</h2>
-
     <div class="footer-col-wrapper">
       <div class="footer-col">
-        <p>{{ site.description }}</p>
+        <div class="footer-cc">
+          <p>&#169; 2016 {{ site.title }}. <br />This website content is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</a> license.</p>
+        </div>
+
+        <div class="footer-nav">
+          <ul class="footer-nav">
+            <li>Change This Guide!</li>
+            <li>Feedback</li>
+            <li>About Geothink</li>
+          </ul>
+        </div>
+
       </div>
 
       <div class="footer-col">
         <ul class="social-media-list">
+          {% if site.email %}
+          <li class="social-media-list-item">
+            {% include icon-email.html email=site.email %}
+          </li>
+          {% endif %}
+
           {% if site.github_username %}
-          <li>
+          <li class="social-media-list-item">
             {% include icon-github.html username=site.github_username %}
           </li>
           {% endif %}
 
           {% if site.twitter_username %}
-          <li>
+          <li class="social-media-list-item">
             {% include icon-twitter.html username=site.twitter_username %}
           </li>
           {% endif %}
@@ -26,6 +41,7 @@
       </div>
 
     </div>
+
 
   </div>
 
