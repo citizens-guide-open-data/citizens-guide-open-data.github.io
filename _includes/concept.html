@@ -1,0 +1,7 @@
+<div class="panel panel-default concept-panel">
+  <div class="panel-heading concept-heading">{{ include.title }}</div>
+  <div class="panel-body concept-body">
+      {% capture concept_content %}{% include concepts/{{ include.slug }}.md %}{% endcapture %}
+      {{ concept_content | markdownify }}
+  </div>
+</div>

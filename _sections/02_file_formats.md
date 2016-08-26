@@ -8,3 +8,7 @@ File formats are agreed upon and standardized ways information is encoded for us
 
 Just as data needs concepts to have meaning, they also need context to be meaningful.
 Changing the context, by expanding it for example, can reveal data’s different aspects. For example, if I say your favourite hockey team lost, you might feel one way—but if I mention that many of the players had been injured or sick before the game, you might feel a different way.
+
+{% include concept.html title='Readability and Data' slug='readability' %}
+
+{% include /tooltips/file_formats.html %}

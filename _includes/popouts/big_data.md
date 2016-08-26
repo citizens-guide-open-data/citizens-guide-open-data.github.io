@@ -1,0 +1,1 @@
+The term Big Data has been used just to refer to data sets of a certain size which require specialized tools for processing and analysis, however, scholars argue it is more importantly used to identify aggregated and networked data sets as well as the predictive analytics that are generated from these sets (Boyd & Crawford, 2011). 

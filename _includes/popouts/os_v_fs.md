@@ -1,5 +1,6 @@
 ---
 title: Open Source vs. Free Software
+layout: popout
 slug: os_v_fs
 ---
 
