@@ -4,13 +4,13 @@
 .site-header {
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
-    min-height: 36px;
     // Positioning context for the mobile navigation icon
     position: relative;
 }
 
 .site-title-block {
     float: left;
+    vertical-align: bottom;
     // Positioning context for the mobile navigation icon
     position: relative;
 }
@@ -25,8 +25,9 @@
     font-weight: 300;
     letter-spacing: -1px;
     padding-left: 0.25em;
-    display: inline-block;
     vertical-align: bottom;
+    display: table-cell;
+    min-width: 4em;
     &,
     &:visited {
         color: $grey-color-dark;
@@ -35,12 +36,6 @@
 
 .site-logo {
     float: left;
-    max-width: 250px;
-}
-
-.site-title-block > * {
-    display: inline-block;
-    vertical-align: bottom;
 }
 
 .site-nav {
