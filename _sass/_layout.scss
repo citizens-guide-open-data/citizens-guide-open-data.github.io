@@ -283,7 +283,7 @@
    color: #e1ffff;
  }
  .nav-side-menu .brand {
-   line-height: 60px;
+   line-height: $base-line-height * 2;
    display: block;
  }
  .nav-side-menu .toggle-btn {
@@ -331,8 +331,8 @@
  .nav-side-menu li .sub-menu li.active a {
    color: #d19b3d;
  }
- .nav-side-menu ul .guide-sub-menu li.active li:before,
- .nav-side-menu li .guide-sub-menu li.active li:before {
+ .nav-side-menu ul li.active li:before,
+ .nav-side-menu li li.active li:before {
    font-family: FontAwesome;
    content: "\f02e";
  }
@@ -340,7 +340,7 @@
  .nav-side-menu li .sub-menu li {
    background-color: #181c20;
    border: none;
-   line-height: 28px;
+   line-height: $base-line-height;
    border-bottom: 1px solid #23282e;
    margin-left: 0px;
  }
@@ -359,12 +359,7 @@
  }
  .nav-side-menu ul .guide-sub-menu li:before,
  .nav-side-menu li .guide-sub-menu li:before {
-   font-family: FontAwesome;
    content: "\f097";
-   display: inline-block;
-   padding-left: 10px;
-   padding-right: 10px;
-   vertical-align: middle;
  }
  .nav-side-menu li {
    padding-left: 0px;
@@ -398,12 +393,13 @@
    .nav-side-menu .toggle-btn {
      display: block;
      cursor: pointer;
+     border-radius: $small-spacing-unit / 3;
      position: absolute;
-     right: 10px;
-     top: 10px;
+     right: $small-spacing-unit;
+     top: $small-spacing-unit / 2;
      z-index: 10 !important;
-     padding: 3px;
-     background-color: #ffffff;
+     padding: $small-spacing-unit / 5;
+     background-color: $background-color;
      color: #000;
      width: 40px;
      text-align: center;
@@ -412,7 +408,7 @@
      text-align: left !important;
      font-size: 22px;
      padding-left: 20px;
-     line-height: 50px !important;
+     line-height: $spacing-unit * 1.5 !important;
    }
  }
  @media (min-width: $on-laptop) {

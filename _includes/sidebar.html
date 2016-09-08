@@ -1,5 +1,5 @@
 <nav class="nav-side-menu">
-    <div class="brand">1</div>
+    <div class="brand">&nbsp;</div>
     <i class="fa fa-bars fa-2x toggle-btn" data-toggle="collapse" data-target="#menu-content"></i>
 
         <div class="menu-list">
@@ -9,19 +9,20 @@
                   <a href="#"><i class="fa fa-archive fa-lg" aria-hidden="true"></i> Citizen Stories <span class="caret"></span></a>
                 </li>
                 <ul class="sub-menu collapse" id="service">
-                  <li>Meet Open Data Users</li>
+                  <li><a href="{{ '/meet-users' | prepend: site.baseurl }}">Meet Open Data Users</a></li>
                 </ul>
 
                 <li data-toggle="collapse" data-target="#products" class="collapsed">
                   <a href="#"><i class="fa fa-book fa-lg" aria-hidden="true"></i> Citizen's Guide <span class="caret"></span></a>
                 </li>
-                <ul class="guide-sub-menu collapse" id="products">
-                    <li><a href="#">1:</a></li>
-                    <li><a href="#">2:</a></li>
-                    <li><a href="#">3:</a></li>
-                    <li><a href="#">4:</a></li>
-                    <li><a href="#">5:</a></li>
-                    <li><a href="#">References</a></li>
+                <ul class="guide-sub-menu sub-menu collapse" id="products">
+                    <li><a href="{{ '/guide/1-open-data' | prepend: site.baseurl }}">1: What is Open Data and Open Licensing?</a></li>
+                    <li><a href="{{ '/guide/2-openness' | prepend: site.baseurl }}">2: Why Openness?</a></li>
+                    <li><a href="{{ '/guide/3-open-datas-use' | prepend: site.baseurl }}">3: What Can Open Data be Used For?</a></li>
+                    <li><a href="{{ '/guide/4-who-uses-open-data' | prepend: site.baseurl }}">4: Who Can Use Open Data?</a></li>
+                    <li><a href="{{ '/guide/5-wheres-open-data' | prepend: site.baseurl }}">5: Where Can Open Data be Found?</a></li>
+                    <li><a href="{{ '/guide/6-work-with-open-data' | prepend: site.baseurl }}">6: How Can I Work With Open Data?</a></li>
+                    <li><a href="{{ '/guide/references' | prepend: site.baseurl }}">References</a></li>
                 </ul>
 
                 <li>
@@ -29,7 +30,7 @@
                 </li>
 
                 <li>
-                  <a href="#"><i class="fa fa-info-circle" aria-hidden="true"></i> About this Guide</a>
+                  <a href="{{ '/about' | prepend: site.baseurl }}"><i class="fa fa-info-circle" aria-hidden="true"></i> About this Guide</a>
                 </li>
             </ul>
      </div>
