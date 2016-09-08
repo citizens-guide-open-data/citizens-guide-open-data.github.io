@@ -34,16 +34,16 @@ $popout-background-color: #d6e0f4;
 $tooltip-accent-color: #cc3366;
 $tooltip-background-color: #f4d6e0;
 
-$nav-sidebar-width: 250px;
+$nav-sidebar-width: 220px;
 
 $nav-sidebar-color: #1E242A;
 
 
 // Width of the content area
-$content-width:    960px;
+$content-width:    860px;
 
-$on-palm:          600px;
-$on-laptop:        960px;
+$on-palm:          560px;
+$on-laptop:        860px;
 
 // Use media queries like this:
 // @include media-query($on-palm) {
