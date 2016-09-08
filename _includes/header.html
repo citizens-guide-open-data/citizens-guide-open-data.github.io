@@ -1,10 +1,12 @@
 <header class="site-header">
-
   <div class="wrapper">
-    <a class="site-title-block" href="{{ site.baseurl }}/" alt="{{ site.title }}">
-      <img class="site-logo" src="{{ '/images/geothink_logo.png' | prepend: site.baseurl }}" width="30%"/><div class="site-title">{{ site.title }}</div>
-    </a>
-
+    <div class="title-wrapper">
+      <div class="title-aligner"></div>
+      <a href="{{ site.baseurl }}/" alt="{{ site.title }}">
+        <img class="site-logo" src="{{ '/images/geothink_logo.png' | prepend: site.baseurl }}" width="30%"/>
+        <span class="site-title">{{ site.title }}
+        </span>
+      </a>
+    </div>
   </div>
-
 </header>
