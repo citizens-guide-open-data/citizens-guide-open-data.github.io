@@ -1,0 +1,1 @@
+Also known as *catalogues*, portals are a specific type of website that provides an easy way to publish and access collections of data sets. Portals like ckan provide many features that that can help an organization open up their data, and make using open data easier.
