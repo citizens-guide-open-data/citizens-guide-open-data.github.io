@@ -1,4 +1,4 @@
 ---
-title: "Change This Guide"
+title: "Change the Citizen's Guide"
 layout: page
 ---

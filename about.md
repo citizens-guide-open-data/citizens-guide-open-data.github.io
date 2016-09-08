@@ -1,4 +1,4 @@
 ---
-title: "About Citizen's Guide"
+title: "About the Citizen's Guide"
 layout: page
 ---
