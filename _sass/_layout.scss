@@ -4,18 +4,17 @@
 .site-header {
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
-    min-height: 36px;
     // Positioning context for the mobile navigation icon
     position: relative;
 }
 
-.site-title-block {
-    float: left;
-    // Positioning context for the mobile navigation icon
-    position: relative;
+.title-aligner {
+    display: inline-block;
+    height: 100%;
+    height: $spacing-unit * 2;
 }
 
-.site-title-block a, a:link, a:visited, a:active, a:hover {
+.site-title a, a:link, a:visited, a:active, a:hover {
     border:0!important;
     text-decoration: none;
 }
@@ -25,8 +24,8 @@
     font-weight: 300;
     letter-spacing: -1px;
     padding-left: 0.25em;
-    display: inline-block;
     vertical-align: bottom;
+    min-width: 4em;
     &,
     &:visited {
         color: $grey-color-dark;
@@ -35,14 +34,15 @@
 
 .site-logo {
     float: left;
-    max-width: 250px;
-}
-
-.site-title-block > * {
-    display: inline-block;
     vertical-align: bottom;
+    max-width: $spacing-unit * 8;
+    max-height: $spacing-unit * 2;
 }
 
+
+/**
+ * Site sidebar for navigation
+ */
 .site-nav {
     float: right;
     line-height: 56px;
