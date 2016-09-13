@@ -12,7 +12,7 @@ $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.35;
 
-$header-font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+$header-font-family: "Lato", Helvetica, Arial, sans-serif;
 
 $spacing-unit:     30px;
 $small-spacing-unit: $spacing-unit / 3;
@@ -65,6 +65,7 @@ $on-laptop:        860px;
         "bootstrap.min",
         "font-awesome",
         "scopeone",
+        "lato",
         "base",
         "layout",
         "document-elements",
