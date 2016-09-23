@@ -4,7 +4,7 @@ chapter: 6
 layout: page
 ---
 
-“About.” 2016. Poplus. [poplus.org](poplus.org){.uri}.
+“About.” 2016. Poplus. [poplus.org](poplus.org).
 
 
 Baack, Stefan. 2015. “Datafication and Empowerment: How the Open Data
@@ -78,7 +78,7 @@ Creative Commons. n.d. “Creative Commons.” Creative Commons Corporation.
 
 
 DataLibre. 2015. “Datalibre.ca.” datalibre.ca.
-[datalibre.ca](datalibre.ca){.uri}.
+[datalibre.ca](datalibre.ca).
 
 
 Detroit Digital Justice Coalition. 2015. “Opening Data.” Zine.
@@ -96,7 +96,7 @@ Culture Conference*. Digital Arts; Culture.
 
 Eaves, David. 2014. “How Governments Misunderstand the Risks of Open
 Data.”
-[{http://eaves.ca/2010/10/06/how-governments-misunderstand-the-risks-of-open-data/}](%7Bhttp://eaves.ca/2010/10/06/how-governments-misunderstand-the-risks-of-open-data/%7D){.uri}.
+[{http://eaves.ca/2010/10/06/how-governments-misunderstand-the-risks-of-open-data/}](%7Bhttp://eaves.ca/2010/10/06/how-governments-misunderstand-the-risks-of-open-data/%7D).
 
 
 Emam, Khaled El. 2016. “A de-Identification Protocol for Open Data.”
@@ -407,7 +407,7 @@ School of Data. 2013. “What is Data?”
 
 
 ———. 2016. “School of Data.” Open Knowledge Foundation; P2PU.
-[schoolofdata.org](schoolofdata.org){.uri}.
+[schoolofdata.org](schoolofdata.org).
 
 
 Sieber, Renee E, and Peter A Johnson. 2015. “Civic Open Data at a
