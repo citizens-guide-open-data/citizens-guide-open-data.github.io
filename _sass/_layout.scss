@@ -344,6 +344,8 @@
    line-height: $base-line-height;
    border-bottom: 1px solid #23282e;
    margin-left: 0px;
+   text-indent: -0.5em;
+   padding-left: 1em;
  }
  .nav-side-menu ul .sub-menu li:hover,
  .nav-side-menu li .sub-menu li:hover {
@@ -354,8 +356,8 @@
    font-family: FontAwesome;
    content: "\f105";
    display: inline-block;
-   padding-left: 10px;
-   padding-right: 10px;
+   padding-left: 1em;
+   padding-right: 0.5em;
    vertical-align: middle;
  }
  .nav-side-menu ul .guide-sub-menu li:before,
