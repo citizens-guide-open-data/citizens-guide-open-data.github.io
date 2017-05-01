@@ -2,7 +2,10 @@
 title: "References"
 chapter: 6
 layout: page
+# References are in alphabetical order and should be added in APA (American Psychological Association) format
 ---
+
+
 
 Baack, Stefan. 2015. "Datafication and Empowerment: How the Open Data
 Movement Re-Articulates Notions of Democracy, Participation, and Journalism."
@@ -27,6 +30,8 @@ Government of Canada.
 Center for Government Excellence. 2016. "Open Data - Getting Started
 Guide." John Hopkins University.
 <https://centerforgov.gitbooks.io/open-data-getting-started/>
+
+Chignard, Simon. 2013. "A Brief History of Open Data." *Paris Innovation Review*. <http://parisinnovationreview.com/2013/03/29/brief-history-open-data/>.
 
 Choose a License. 2016. "Choosing an Open Source License Doesn&rsquo;t Need to
 Be Scary." Github, Inc. <http://choosealicense.com/>
@@ -56,6 +61,8 @@ Code For America. 2016. "Open Data Playbook."
 
 Creative Commons. n.d. "Creative Commons."
 [https://creativecommons.org/](https://creativecommons.org/)
+
+Data.gov. 2014. "Open Data: A History."  <https://www.data.gov/blog/open-data-history>.
 
 DataLibre. 2015. "Datalibre.ca." datalibre.ca.
 [http://datalibre.ca](http://datalibre.ca)
@@ -113,6 +120,8 @@ projects.
 
 Greengard, Samuel. 2015. "The Internet of Things." MIT Press.
 
+Gurin, Joel, and Laura Manley. 2015. Open Data for Sustainable Development." *World Bank Group*. <http://www.worldbank.org/en/topic/ict/brief/open-data-for-sustainable-development>.
+
 Gurstein, Michael B. 2011. "Open data: Empowering the empowered or
 effective data use for everyone?" *First Monday* 16 (2).
 <http://firstmonday.org/ojs/index.php/fm/article/view/3316>
@@ -143,6 +152,8 @@ Research* 31 (4). Wiley Online Library: 349–57.
 Kagan, Eliah. 2011. "Is There a Difference Between Free Software and
 Open Source Software?" AskUbuntu.
 <https://askubuntu.com/questions/78958/is-there-a-difference-between-free-software-and-open-source-software/79316>
+
+Kitchin, Rob. 2014. *The Data Revolution: Big Data, Open Data, Data Infrastructures & Their Consequences*. Sage.
 
 Le Dantec, Christopher A, and Carl DiSalvo. 2013. "Infrastructuring and
 the Formation of Publics in Participatory Design." *Social Studies of
@@ -314,6 +325,8 @@ Council.
 Smith, Harrison, and Leslie Regan Shade. 2015. "Cartographies of
 Sharing: Situating the Geoweb in the Sharing Economy in Canada."
 <http://geothink.ca/wp-content/uploads/2015/04/smith-shade_AAG_templatepaper_march21.pdf>.
+
+Sollazzo, Giuseppe. 2015. "Open Data: Where the Movement Started and Where It's Headed." *ComputerworldUK*. <http://www.computerworlduk.com/data/open-data-where-it-started-where-its-headed-3626537/>.
 
 Socrata. 2016. "Open Data Field Guide." Socrata.
 <https://www.socrata.com/open-data-field-guide/>

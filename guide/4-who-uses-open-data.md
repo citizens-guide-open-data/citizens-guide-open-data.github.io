@@ -8,7 +8,7 @@ Open Data attempts to be accessible simply through being made available, but thi
 
 ## The “Open Data Movement”
 
-The Open Data movement loosely means the global trend toward opening data, as well as the momentum and advocacy that occurs by non-governmental organizations (NGOs), municipalities, and countries shifting toward releasing data in an open manner. The [Open Data Barometer](http://www.opendatabarometer.org/report/summary/) describes this as the “global movement to make government ‘open by default’” (Open Data Barometer, 2015; Open Government, 2016).
+The Open Data movement loosely means the global trend toward opening data, as well as the momentum and advocacy that occurs by non-governmental organizations (NGOs), municipalities, and countries shifting toward releasing data in an open manner. The [Open Data Barometer](http://www.opendatabarometer.org/report/summary/) describes this as the “global movement to make government ‘open by default’” (Open Data Barometer, 2015; Open Government, 2016). 
 
 Many different stakeholders participate in the open data movement, such as:
 
@@ -22,7 +22,10 @@ Many different stakeholders participate in the open data movement, such as:
 
 ### STAKEHOLDERS
 
-A stakeholder just means any individual person, organization, or group that has an interest or concern related to the matter at hand. Open Data Monitor research identifies “government, business and citizens... as the three key constituencies (stakeholders) in a successful open data ecosystem” (“The Open Data Ecosystem and its Stakeholders”, 2016).
+A stakeholder just means any individual person, organization, or group that has an interest or concern related to the matter at hand. Open Data Monitor research identifies “government, business and citizens... as the three key constituencies (stakeholders) in a successful open data ecosystem” (“The Open Data Ecosystem and its Stakeholders”, 2016). 
+
+What Open Data can and has been able to achieve rests largely in the hands of the key players and influential stakeholders of the movement. The primary stakeholders of the Open Data Movement are businesses, governments, and citizens. That being said, many of the decisions regarding the opening of data are made by key players in the field. These players are more likely to be various levels of government (national, provincial, regional, or municipal); businesses including start-ups, investors, or banks; academic and scientific institutions; advocacy groups; and politicians. According to OpenDataMonitor, the primary players in the Open Data Movement begin with the data generators themselves, who possess significant power through their decisions to disclose or retain data. Second, support units such as legal counsel or data platforms also provide essential input. Such units may not have a stake in the data themselves, but their expertise in liability, privacy, security and licensing is usually highly regarded. Third, data users were identified as key players since their analysis and understanding of open data can make it accessible to citizens. Fourth, politicians also play a crucial role in setting the agenda regarding open data, as their support is regarded as crucial. Finally, advocacy groups similarly claim significant legitimacy through their expertise and mobilization. Most importantly, many advocacy groups continuously tie the topic of open data to democratic goals and values, and contribute to the dissemination of the Open Data Movement to the public (OpenDataMonitor, 2015). 
+
 
 ## Companies Use of Open Data
 
@@ -39,6 +42,10 @@ One way you can compare what is happening with Open Data in different countries 
 ## Open Data for Development
 
 One context where open data has had a big impact is in global development, known as “Open Development.” Recently, organizations like the World Bank have been making the data collected as part of the initiatives they fund freely available (The World Bank Group, 2016). Multi-stakeholder projects like Global Open Data for Agriculture and Nutrition (GODAN, n.d.), which focuses on food security— have emerged to support the processes of proactive sharing of data to meet development goals. Another initiative, Open Data for Development (OD4D), is solely focused on promoting open data through its implementation by a network of organizations around the world.
+
+In 2015, a World Bank report listed the benefits of open data for sustainable development. These included economic growth and job creation through job-matching platforms and foreign investment analysis; improved efficiency of public services by, for example, matching patients with healthcare or providing online education; increased government transparency and citizen participation through online access to contracts and other government documents; and better information sharing to help improve public transportation or better manage disaster relief. 
+
+Interestingly, many of these benefits emphasize the opening of government data rather than businesses, and include little about direct environmental benefits. The true abilities of open data for sustainability can be hindered by the lack of calls for businesses, rather than governments and other non-profits, to make their data available for re-use. Nevertheless, many grass-roots projects using open data have been leading efforts toward a sustainable future. Some of these include the use of satellite images to map renewable sources of energy, cyclists monitoring urban air quality, or tracking deforestation using crowdsourcing.  
 
 The United Nations 2015 Sustainable Development Goals (successor to the Millennium Development Goals) are a set of 17 goals and 169 related targets. Alongside the development of the goals themselves, the UN and World Bank have already identified key ways that [Open Data](http://blogs.worldbank.org/ic4d/sustainable-development-goals-and-open-data) will play a role in evaluating whether these goals are met.
 

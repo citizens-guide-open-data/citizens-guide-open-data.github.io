@@ -4,6 +4,10 @@ chapter: 1
 layout: page
 ---
 
+While the idea of open data has remained somewhat abstract in popular media, proponents of the movement have conceptualized it in distinct ways. Some of these ways include common phrases used by open data stakeholders, such as “Free Our Data” and “Knowledge for Everyone”. Such political- or commercial-sounding slogans may be catchy, but they tend to essentialize the Open Data Movement as a uniform, democratic undertaking. Other keywords used in conferences, scholarship, and on various government and activist websites include _transparency_, _accountability_, _participation_, _innovation_, and _democracy_. The Open Data Movement has also been associated with the Data Revolution, referring to the vast amount of information society began to produce in the twenty-first century. This revolution was compared to other significant transitions in history, like the advent of the printing press or Renaissance navigation (Kitchin, 2014). Currently, the described benefits of the Open Data Movement are often tied to economic growth and the “opening up” of governments and scientific research. The movement is thus part of a wider rhetoric and imaginary used to earn universal support. Some have argued that such an uncritical conceptualization of open data can conceal potential legal, political, and ethical concerns (Kitchin, 2014).
+
+{% include popout.html title='Open Data: A Short History' slug='od_history' %}
+
 ## Data for Humans and Computers
 Data is a fuzzy concept—a definitive definition is nearly impossible to come by—and the difference between data and information, knowledge, and wisdom is a matter of philosophical dispute.
 
