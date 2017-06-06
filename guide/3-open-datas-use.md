@@ -10,6 +10,8 @@ Open Data can also be used to tackle problems; this can be done by individuals, 
 
 Another is Citizen Science initiatives, like those undertaken by [Public Lab](https://publiclab.org/), collaborative approaches that provides the tools for groups to investigate and monitor environmental concerns (Public Lab, 2015).
 
+{% include /tooltips/od_projects.html %} 
+
 ## The Benefit of Open Data
 
 A key goal of many Open Data proponents is providing a benefit and new value to citizens, communities, and organizations that are featured in the data. In order to argue for this value creation, municipal governments often use case studies as emblematic examples.
