@@ -1,6 +1,6 @@
 ---
 title: "How Can I Work With Open Data?"
-chapter: 6
+chapter: 8
 layout: page
 ---
 

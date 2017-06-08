@@ -5,11 +5,19 @@ layout: page
 # References are in alphabetical order and should be added in APA (American Psychological Association) format
 ---
 
-
+Arnstein, S. R. 1969. A ladder of citizen participation. Journal of the American Institute of planners, 35(4), 216-224.
 
 Baack, Stefan. 2015. "Datafication and Empowerment: How the Open Data
 Movement Re-Articulates Notions of Democracy, Participation, and Journalism."
 *Big Data & Society* 2 (2). SAGE Publications: 1–11.
+
+Bloch, N. 2015. Citizen Science and Intellectual Property: A Guide for the  Perplexed. Geothink. <http://geothink.ca/citizen-science-and-intellectual-property-a-guide-for-the-perplexed/>
+
+Bonney, R. 1996. Citizen Science – A Lab Tradition, *Living Bird*, Autumn 1996. 
+
+Bonney, R., Cooper, C. B., Dickinson, J., Kelling, S., Phillips, T., Rosenberg, K. V., & Shirk, J. 2009. Citizen science: A developing tool for expanding science knowledge and scientific literacy. *BioScience*, 59(11), 977-984.
+
+Borgman, C. L. (2012). The conundrum of sharing research data. *Journal of the American Society for Information Science and Technology*, 63(6), 1059-1078.
 
 Boyd, Danah, and Kate Crawford. 2011. "Six Provocations for Big Data." In
 *A Decade in Internet Time: Symposium on the Dynamics of the Internet
@@ -57,6 +65,12 @@ Knowledge Foundation. [http://ckan.org/](http://ckan.org/)
 Code For America. 2016. "Open Data Playbook."
 <https://www.codeforamerica.org/practices/open/open-data/>
 
+Cohn, J. P. 2008. Citizen science: Can volunteers do real research?. _BioScience_, 58(3), 192-197.
+
+Conner, C. 200). *A People's History of Science: Miners, Midwives, and Low Mechanicks*. Nation books.
+
+Conrad, C. C., & Hilchey, K. G. (2011). A review of citizen science and community-based environmental monitoring: Issues and opportunities. *Environmental Monitoring and Assessment*, 176(1), 273-291.
+
 "Councilmatic - Your Local City Council, Demystified." 2015. Councilmatic. [http://www.councilmatic.org/](http://www.councilmatic.org/)
 
 Creative Commons. n.d. "Creative Commons."
@@ -67,14 +81,22 @@ Data.gov. 2014. "Open Data: A History."  <https://www.data.gov/blog/open-data-h
 DataLibre. 2015. "Datalibre.ca." datalibre.ca.
 [http://datalibre.ca](http://datalibre.ca)
 
+Delfanti, A. 2013. *Biohackers: The Politics of Open Science*. Pluto press. PDF available at <http://delfanti.org/biohackers/>
+
 Detroit Digital Justice Coalition. 2015. "Opening Data." [Zine].
 <https://www.alliedmedia.org/news/2015/09/17/opening-data-zine-here>
+
+Dickinson, J. L., Shirk, J., Bonter, D., Bonney, R., Crain, R. L., Martin, J., ... & Purcell, K. 2012. The current state of citizen science as a tool for ecological research and public engagement. *Frontiers in Ecology and the Environment*, 10(6), 291-297. 
+
+Dickinson, J. L., Zuckerberg, B., & Bonter, D. N. 2010. Citizen science as an ecological research tool: Challenges and benefits. *Annual Review of Ecology, Evolution, and Systematics*, 41, 149-172.
 
 DiSalvo, Carl. 2012. *Adversarial Design*. The MIT Press.
 
 DiSalvo, Carl, and Jonathan Lukens. 2009. "Towards a Critical Technological
 Fluency: The Confluence of Speculative Design and Community Technology
 Programs." In *Proceedings of the Digital Arts and Culture Conference*.
+
+Eamon, W. 1985. "From the secrets of nature to public knowledge: The origins of the concept of openness in science." *Minerva* 23.3: 321-347.
 
 Eaves, David. 2014. "How Governments Misunderstand the Risks of Open
 Data." [http://eaves.ca/2010/10/06/how-governments-misunderstand-the-risks-of-open-data/](http://eaves.ca/2010/10/06/how-governments-misunderstand-the-risks-of-open-data/)
@@ -83,8 +105,12 @@ Emam, Khaled El. 2016. "A de-Identification Protocol for Open Data."
 International Association of Privacy Professionals.
 <https://iapp.org/news/a/a-de-identification-protocol-for-open-data/>
 
+European Citizen Science Association 2015. "10 Principles of Citizen Science   (English)" (PDF). ECSA. Retrieved 18 August 2016.
+
 fabriders. 2015. "Data Literacy Research Update."
 <http://www.fabriders.net/data-literacy-update/>
+
+Franzoni, C., & Sauermann, H. 2014. Crowd science: The organization of scientific research in open collaborative projects. *Research Policy*, 43(1), 1-20. 
 
 Free Software Foundation. 2016. "Categories of Free and Nonfree
 Software."
@@ -98,6 +124,8 @@ Global Open Data for Agriculture and Nutrition [GODAN]. n.d. "What is GODAN?" <h
 GNU Project. 2014. "Why &lsquo;Free Software&rsquo; Is Better Than &lsquo;Open Source&rsquo;."
 Free Software Foundation.
 <https://www.gnu.org/philosophy/free-software-for-freedom.en.html>
+
+Goodchild, M. F. 2007. Citizens as sensors: the world of volunteered geography. *GeoJournal*, 69(4), 211-221.
 
 Gouvernement du Québec. 2016. "Gouvernement Ouvert." Gouvernement du
 Québec. <http://www.donnees.gouv.qc.ca/?node=/accueil>
@@ -115,16 +143,24 @@ Creating a Culture of ‘Open by Default&rsquo;." Government of Canada.
 ———. 2016b. "Open Government Portal." Government Of Canada.
 <http://open.canada.ca/en>
 
+Groom, Q., Weatherdon, L., & Geijzendorffer, I. R. 2016. Is citizen science an open science in the case of biodiversity observations? *Journal of Applied Ecology*, 54(2), 612-617. 
+
 Greenfield, Adam. 2013. *Against the Smart City: A Pamphlet*. Do
 projects.
 
 Greengard, Samuel. 2015. "The Internet of Things." MIT Press.
+
+Gura, T. 2013. Amateur experts. *Nature*. Retreived from <http://www.nature.com/nature/journal/v496/n7444/full/nj7444-259a.html>
 
 Gurin, Joel, and Laura Manley. 2015. Open Data for Sustainable Development." *World Bank Group*. <http://www.worldbank.org/en/topic/ict/brief/open-data-for-sustainable-development>.
 
 Gurstein, Michael B. 2011. "Open data: Empowering the empowered or
 effective data use for everyone?" *First Monday* 16 (2).
 <http://firstmonday.org/ojs/index.php/fm/article/view/3316>
+
+Haklay, M., 2013. Citizen Science and Volunteered Geographic Information – overview and typology of participation in Sui, D.Z., Elwood, S. and M.F. Goodchild (eds.), 2013. Crowdsourcing Geographic Knowledge: Volunteered Geographic Information (VGI) in Theory and Practice . Berlin: Springer. pp 105-122 DOI: 10.1007/978-94-007-4587-2\_7
+
+Haklay, M., Francis, L., and Whitaker, C. 2008. Citizens tackle noise pollution. *GIS professional*, August issue.
 
 Hamilton, Evan. 2015. "Open for Reporting: An Exploration of Open Data
 and Journalism in Canada." Master&rsquo;s thesis, Toronto: University of
@@ -142,6 +178,10 @@ E-Government, and Government 2.0." UNC School of Government.
 International Organization for Standardization. n.d. "ISO."
 <http://www.iso.org/>
 
+Irwin, A. 1995. *Citizen science: A Study of People, Expertise and Sustainable Development*. Psychology Press.
+
+Jasanoff, S. 2003. Technologies of humility: Citizen participation in governing science. *Minerva*,  41(3), 223-244. 
+
 Johnson, Jeffrey Alan. 2014. "From Open Data to Information Justice."
 *Ethics and Information Technology* 16 (4). Springer: 263–74.
 
@@ -153,7 +193,11 @@ Kagan, Eliah. 2011. "Is There a Difference Between Free Software and
 Open Source Software?" AskUbuntu.
 <https://askubuntu.com/questions/78958/is-there-a-difference-between-free-software-and-open-source-software/79316>
 
+Kelling, S. 2012. Using bioinformatics in citizen science. *Citizen Science: Public Participation in Environmental Research*. JL Dickinson and R. Bonney. Ithaca, Comstock, 58-68.
+
 Kitchin, Rob. 2014. *The Data Revolution: Big Data, Open Data, Data Infrastructures & Their Consequences*. Sage.
+
+Lakshminarayanan, S. 2007. Using citizens to do science versus citizens as scientists. *Ecology and Society*, 12(2).
 
 Le Dantec, Christopher A, and Carl DiSalvo. 2013. "Infrastructuring and
 the Formation of Publics in Participatory Design." *Social Studies of
@@ -204,6 +248,8 @@ Go the Wrong Way?"
 
 Neptis Foundation. 2016. "Neptis Geoweb."
 <http://www.neptisgeoweb.org/>
+
+Newman, G., Wiggins, A., Crall, A., Graham, E., Newman, S., & Crowston, K. 2012. The future of citizen science: Emerging technologies and shifting paradigms. *Frontiers in Ecology and the Environment*, 10(6), 298-304.
 
 OD4D. 2016. "Home." Open Data for Development Foundation.
 <https://www.od4d.net>
@@ -266,6 +312,8 @@ O&rsquo;Hara, K., M.H. Nguyen, and P. Haynes. 2014. *Digital Enlightenment
 Yearbook 2014: Social Networks and Social Machines, Surveillance and
 Empowerment*. IOS Press.
 
+Pocock, M. J., Tweddle, J. C., Savage, J., Robinson, L. D., & Roy, H. E. 2017. The diversity and evolution of ecological and environmental citizen science. *PloS one*, 12(4).
+
 Pomerantz, Jeffrey, and Robin Peek. 2016. "Fifty Shades of Open." *First
 Monday* 21 (5).
 <http://firstmonday.org/ojs/index.php/fm/article/view/6360>
@@ -286,6 +334,8 @@ Boundaries." *Media, Culture & Society* 37 (3). Sage Publications:
 Public Lab. 2015. "About Public Lab."
 [https://publiclab.org/about](https://publiclab.org/about)
 
+Reichman, O. J., Jones, M. B., & Schildhauer, M. P. 2011. Challenges and opportunities of open data in ecology. *Science*, 331(6018), 703-705. 
+
 Reporters Committee for Freedom of the Press [RCFP]. 2011. "Open Government Guide." <http://www.rcfp.org/open-government-guide>
 
 Responsible Data Forum. 2016. "Responsible Data Forum." Responsible Data Forum. <https://responsibledata.io/>
@@ -301,6 +351,8 @@ Scassa, Teresa. 2013. "Legal Issues with Volunteered Geographic
 Information." *The Canadian Geographer/Le Géographe Canadien* 57 (1).
 Wiley Online Library: 1–10.
 
+Scassa, T., & Chung, H. 2015. Managing intellectual property rights in citizen science: A guide for researchers and citizen scientists. Woodrow Wilson International Center for Scholars, Washington, DC.
+
 ———. 2014. "Privacy and Open Government." *Future Internet* 6 (2).
 Multidisciplinary Digital Publishing Institute: 397–413.
 
@@ -314,9 +366,15 @@ School of Data. 2013. "What is Data?"
 ———. 2016. "School of Data." Open Knowledge Foundation; P2PU.
 [http://schoolofdata.org](http://schoolofdata.org).
 
+Shirk, J., Ballard, H., Wilderman, C., Phillips, T., Wiggins, A., Jordan, R., ... & Bonney, R. 2012. Public participation in scientific research: A framework for deliberate design. *Ecology and Society*, 17(2).
+
+Show, H. 2015. Rise of the citizen scientist. *Nature*, 524(7565), 265-265. \
+
 Sieber, Renee E, and Peter A Johnson. 2015. "Civic Open Data at a
 Crossroads: Dominant Models and Current Challenges." *Government
 Information Quarterly* 32 (3). Elsevier: 308–15.
+
+Silvertown, J. 2009. A new dawn for citizen science. *Trends in Ecology & Evolution*, 24(9), 467-471.
 
 Smart Cities Council. 2015. "Smart Cities Open Data Guide." Smart Cities
 Council.
@@ -346,6 +404,12 @@ and Data Tracking." MediaShift.
 Strike, Gary. 2015. "Statistics and Data: Open Data." University of
 Manitoba. <http://libguides.lib.umanitoba.ca/c.php?g=297742&p=1986680>
 
+Sullivan, B. L., Aycrigg, J. L., Barry, J. H., Bonney, R. E., Bruns, N., Cooper, C. B., ... & Fink, D. 2014. The eBird enterprise: An integrated approach to development and application of citizen science. *Biological Conservation*, 169, 31-40.
+
+Sullivan, B. L., Phillips, T., Dayer, A. A., Wood, C. L., Farnsworth, A., Iliff, M. J., ... & Rodewald,   A. D. 2017. Using open access observational data for conservation action: A case study for birds. *Biological Conservation*, 208, 5-14. 
+
+Sullivan, B. L., Wood, C. L., Iliff, M. J., Bonney, R. E., Fink, D., & Kelling, S. (2009). eBird: A citizen-based bird observation network in the biological sciences. *Biological Conservation*, 142(10), 2282-2292.
+
 Sulopuisto, Olli. 2014. "How Helsinki Became the Most Successful
 Open-Data City in the World." *CityLab*, April.
 <http://www.citylab.com/tech/2014/04/how-helsinki-mashed-open-data-regionalism/8994/>
@@ -373,12 +437,18 @@ The World Bank Group. 2015. "Sustainable Development Goals and Open Data."
 ———. 2016. "Open Development." The World Bank Group.
 <http://www.worldbank.org/en/topic/opendevelopment>
 
+Theobald, E.J., Ettinger, A.K., Burgess, H.K., DeBey, L.B., Schmidt, N.R., Froehlich, H.E.,  Wagner, C., HilleRisLambers, J., Tewksbury, J., Harsch, M.A., Parrish, J.K., 2015. Global change and local solutions: Tapping the unrealized potential of citizen science for biodiversity research. *Biological Conservation*. 181, 236–244.  
+
 Thompson, Nisha. 2016. "To Hack or Not to Hack…." DataMeet.
 <http://datameet.org/2016/02/02/to-hack-or-not-to-hack/>
 
 Treasury Board of Canada Secretariat. 2014. "Access to Information Request
 Form." Government of Canada.
 <https://www.tbs-sct.gc.ca/tbsf-fsct/350-57-eng.asp>
+
+Triezenberg, H. A., Knuth, B. A., Yuan, Y. C., & Dickinson, J. L. 2012. Internet-based social networking and collective action models of citizen science (pp. 214-225). J. L. Dickinson, R. Bonney, & R. Louv (Eds.). Ithaca, NY: Cornell University Press.
+
+Tulloch, A. I., Possingham, H. P., Joseph, L. N., Szabo, J., & Martin, T. G. 2013. Realising the full potential of citizen science monitoring programs. *Biological Conservation*, 165, 128-138.
 
 Vostrovský, V., J. Tyrychtr, and M. Ulman. 2015. "Potential of Open Data in
 the Agricultural eGovernment." *AGRIS On-Line Papers in Economics and
@@ -392,6 +462,8 @@ Web Foundation. 2015. "Open Data Barometer." World Wide Web Foundation.
 <http://www.opendatabarometer.org/>
 
 Wikipedia, The Free Encyclopedia. 2015. "Copyleft." The Wikipedia Foundation. <https://en.wikipedia.org/wiki/Copyleft>
+
+Witten, M. 2013. Snow-covered tweets. *Waterloo Stories*. <https://uwaterloo.ca/stories/snow-covered-tweets>
 
 Young, Andrew. 2015. "The Impact of Open Data – Initial Findings from Case
 Studies." NYU Governance Lab.
