@@ -17,6 +17,8 @@ Bonney, R. 1996. Citizen Science – A Lab Tradition, *Living Bird*, Autumn 1996
 
 Bonney, R., Cooper, C. B., Dickinson, J., Kelling, S., Phillips, T., Rosenberg, K. V., & Shirk, J. 2009. Citizen science: A developing tool for expanding science knowledge and scientific literacy. *BioScience*, 59(11), 977-984.
 
+Borgesius, F., Gray, J., Eechoud, M. (2015). "Open Data, Privacy, and Fair Information Principles: Towards a Balancing Framework" *Berkeley Technology Law Journal*, 30(3), 2073-2132.
+
 Borgman, C. L. (2012). The conundrum of sharing research data. *Journal of the American Society for Information Science and Technology*, 63(6), 1059-1078.
 
 Boyd, Danah, and Kate Crawford. 2011. "Six Provocations for Big Data." In
@@ -31,9 +33,15 @@ Calzada Prado, Javier, and Miguel Ángel Marzal. 2013. "Incorporating
 Data Literacy into Information Literacy Programs: Core Competencies and
 Contents." *Libri* 63 (2): 123–34.
 
+Canadian Heritage. (2013). "Putting the Open in Open Data" <http://www.rcip-chin.gc.ca/sgc-cms/nouvelles-news/anglais-english/?p=8815>
+
 Canadian Intellectual Property Office. 2015. "A Guide to Copyright."
 Government of Canada.
 <http://www.cipo.ic.gc.ca/eic/site/cipoInternet-Internetopic.nsf/eng/h_wr02281.html>
+
+Canadian Internet Policy and Public Interest Clinic. (2016). "Open Data, Open Citizens?"  <https://cippic.ca/en/open_governance/open_data_and_privacy>
+
+Canadian Internet Policy and Public Interest Clinic. (n.d.) "Open Data and Privacy"  <https://cippic.ca/en/en/FAQ/Open_Data_and_Privacy>
 
 Center for Government Excellence. 2016. "Open Data - Getting Started
 Guide." John Hopkins University.
@@ -72,6 +80,8 @@ Conner, C. 200). *A People's History of Science: Miners, Midwives, and Low Mecha
 Conrad, C. C., & Hilchey, K. G. (2011). A review of citizen science and community-based environmental monitoring: Issues and opportunities. *Environmental Monitoring and Assessment*, 176(1), 273-291.
 
 "Councilmatic - Your Local City Council, Demystified." 2015. Councilmatic. [http://www.councilmatic.org/](http://www.councilmatic.org/)
+
+Crawley, M. (2017). "Sunshine List Reveals Ontario's Public Sector Salaries" CBC News. <http://www.cbc.ca/news/canada/toronto/sunshine-list-2017-ontario-salaries-2016-1.4037987>
 
 Creative Commons. n.d. "Creative Commons."
 [https://creativecommons.org/](https://creativecommons.org/)
@@ -158,6 +168,8 @@ Gurstein, Michael B. 2011. "Open data: Empowering the empowered or
 effective data use for everyone?" *First Monday* 16 (2).
 <http://firstmonday.org/ojs/index.php/fm/article/view/3316>
 
+Hacking, I. (1990). *The Taming of Chance*. Cambridge, MA: Cambridge University Press
+
 Haklay, M., 2013. Citizen Science and Volunteered Geographic Information – overview and typology of participation in Sui, D.Z., Elwood, S. and M.F. Goodchild (eds.), 2013. Crowdsourcing Geographic Knowledge: Volunteered Geographic Information (VGI) in Theory and Practice . Berlin: Springer. pp 105-122 DOI: 10.1007/978-94-007-4587-2\_7
 
 Haklay, M., Francis, L., and Whitaker, C. 2008. Citizens tackle noise pollution. *GIS professional*, August issue.
@@ -175,10 +187,14 @@ Harper, Logan. 2013. "A Citizen&rsquo;s Guide to Open Government,
 E-Government, and Government 2.0." UNC School of Government.
 <https://onlinempa.unc.edu/a-citizens-guide-to-open-government-e-government-and-government-2-0/>
 
+Information and Privacy Commissioner of Ontario. (2017) "Open Government and Protecting Privacy"   <https://www.ipc.on.ca/wp-content/uploads/2017/03/open-gov-privacy-1.pdf>
+
 International Organization for Standardization. n.d. "ISO."
 <http://www.iso.org/>
 
 Irwin, A. 1995. *Citizen science: A Study of People, Expertise and Sustainable Development*. Psychology Press.
+
+Jaatinen, T. (2016). "The Relationship Between Open Data Initiatives, Privacy, and Government Transparency: A Love Triangle?" *International Data Privacy Law*, 6(1), 28-38.
 
 Jasanoff, S. 2003. Technologies of humility: Citizen participation in governing science. *Minerva*,  41(3), 223-244. 
 
@@ -188,6 +204,8 @@ Johnson, Jeffrey Alan. 2014. "From Open Data to Information Justice."
 Johnson, Peter, and Pamela Robinson. 2014. "Civic Hackathons:
 Innovation, Procurement, or Civic Engagement?" *Review of Policy
 Research* 31 (4). Wiley Online Library: 349–57.
+
+Justice Laws Website. (2017). "Privacy Act, RSC 1985, c P-21" <http://laws-lois.justice.gc.ca/eng/acts/p-21/>
 
 Kagan, Eliah. 2011. "Is There a Difference Between Free Software and
 Open Source Software?" AskUbuntu.
@@ -235,6 +253,8 @@ Morozov, Evgeny. 2014. "The Socialist Origins of Big Data." *The New
 Yorker*, October.
 <http://www.newyorker.com/magazine/2014/10/13/planning-machine>
 
+Narayanan, A., Shmatikov, V., (2008). "Robust De-anonymisation of Large Sparse Datasets", in *Proceedings of the 2008 IEEE Symposium on Security and Privacy*, 111-125. <https://www.cs.utexas.edu/~shmat/shmat_oak08netflix.pdf>
+
 Natural Resources Canada. 2016. "Free Data - Geogratis." Government of Canada.
 <https://www.nrcan.gc.ca/earth-sciences/geography/topographic-information/free-data-geogratis/11042>
 
@@ -251,6 +271,12 @@ Neptis Foundation. 2016. "Neptis Geoweb."
 
 Newman, G., Wiggins, A., Crall, A., Graham, E., Newman, S., & Crowston, K. 2012. The future of citizen science: Emerging technologies and shifting paradigms. *Frontiers in Ecology and the Environment*, 10(6), 298-304.
 
+Nin, J., Herranz, J. (2010). *Privacy and Anonymity in Information Management Systems: New Techniques for New Practical Problems*. London UK: Springer-Verlag
+
+Nissenbaum, H. (2004). "Privacy as Contextual Integrity" Washington Law Review Association, 119(79), 119-158.
+
+Nissenbaum, H. (1998). "Protecting Privacy in an Information Age: The Problem of Privacy in Public" Law and Philosophy, 17, 559-596.
+
 OD4D. 2016. "Home." Open Data for Development Foundation.
 <https://www.od4d.net>
 
@@ -258,8 +284,12 @@ Office of the Privacy Commissioner [OPC]. 2016. "Consent and Privacy." Policy; R
 of the Privacy Commissioner of Canada.
 [https://www.priv.gc.ca/information/research-recherche/2016/consent_201605_e.pdf](https://www.priv.gc.ca/information/research-recherche/2016/consent_201605_e.pdf)
 
+Office of the Privacy Commissioner of Canada (2012) "Seizing Opportunity: Good Privacy Practices for Developing Mobile Apps" <https://www.priv.gc.ca/media/1979/gd_app_201210_e.pdf>
+
 Ontario Public Service [OPS]. 2016. "Sharing Government Data." Queen&rsquo;s Printer for Ontario.
 <https://www.ontario.ca/page/sharing-government-data>
+
+opendataresearch.org. (2013). "Open Data & Privacy"  <http://www.opendataresearch.org/content/2013/501/open-data-privacy-discussion-notes>
 
 Open Data Institute [ODI]. 2016a. "Data Spectrum." [https://theodi.org/data-spectrum](https://theodi.org/data-spectrum)
 
@@ -308,9 +338,17 @@ OpenNorth. 2015. "Represent Civic Innovation Api." OpenNorth.
 Opensource.com. 2016. "What Is Open Source Software?" Opensource.com.
 <https://opensource.com/resources/what-open-source>
 
+Organization for Economic Co-operation and Development. (2013). "OECD Guidelines on the Protection of Privacy and Transborder Flows of Personal Data" <http://www.oecd.org/sti/ieconomy/        oecdguidelinesontheprotectionofprivacyandtransborderflowsofpersonaldata.htm>
+
+O&rsquo;Hara, K. (2011). "Transparent Government, Not Transparent Citizens: A Report on Privacy and Transparency for the Cabinet Office" Cabinet Office. Her Majesty’s Government. <https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/61279/transparency-and-privacy-review-annex-a.pdf>
+
 O&rsquo;Hara, K., M.H. Nguyen, and P. Haynes. 2014. *Digital Enlightenment
 Yearbook 2014: Social Networks and Social Machines, Surveillance and
 Empowerment*. IOS Press.
+
+Pantalony, R. (2005). "Canada’s Database Decision: An American Import Takes Hold" *Journal of World Intellectual Property*, 2(2), 209-220.
+
+Pape, S., Serna-Olver J., Tesfay, W. (2015, Sept). "Why Open Data May Threaten Your Privacy" In: *Workshop on Privacy and Inference, co-located with KI.*
 
 Pocock, M. J., Tweddle, J. C., Savage, J., Robinson, L. D., & Roy, H. E. 2017. The diversity and evolution of ecological and environmental citizen science. *PloS one*, 12(4).
 
@@ -359,6 +397,8 @@ Multidisciplinary Digital Publishing Institute: 397–413.
 ———. 2015. "Public Transit Data Through an Intellectual Property Lens:
 Lessons About Open Data." *Available at SSRN 2566401*, February.
 [http://ssrn.com/abstract=2566401](http://ssrn.com/abstract=2566401)
+
+———. (2015). "Privacy and the Publication of Court Decisions: The Privacy Commissioner Weighs In" Teresascassa.ca. Web. <http://www.teresascassa.ca/index.php?option=com_k2&view=item&id=188:privacy-and-the-publication-of-court-decisions-the-privacy-commissioner-weighs-in&Itemid=80>
 
 School of Data. 2013. "What is Data?"
 [http://schoolofdata.org/handbook/courses/what-is-data/](http://schoolofdata.org/handbook/courses/what-is-data/)
@@ -468,6 +508,8 @@ Witten, M. 2013. Snow-covered tweets. *Waterloo Stories*. <https://uwaterloo.ca/
 Young, Andrew. 2015. "The Impact of Open Data – Initial Findings from Case
 Studies." NYU Governance Lab.
 <http://thegovlab.org/the-impact-of-open-data-initial-findings-from-case-studies/>
+
+Zevenbergen, B., Brown, I., Wright, Joss., Erdos, D. (2013) "Ethical Privacy Guidelines for Mobile Connectivity Measurements" *Oxford Internet Institute, 1-41*. <https://iapp.org/media/pdf/knowledge_center/                    Ethical_Privacy_Guidelines_for_Mobile_Connectivity_Measurements.pdf>
 
 Zins, Chaim. 2007. "Conceptual approaches for defining data, information,
 and knowledge." *Journal of the American Society for Information Science and
